@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SecureChatTCP_Client/SecureChatTCP_Client.csproj" Id="b0fcbe53-c7bd-4516-b539-88dd4fc339e8" />
+  <Project Path="SecureChatTCP_Server/SecureChatTCP_Server.csproj" Id="6586acba-a902-44b9-abf6-feb486fc1328" />
+</Solution>
